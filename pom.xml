@@ -7,7 +7,7 @@
   <version>1.0.9-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>HelloWorldMaven</name>
+  <name>Hello!!!! this my first Maven Project</name>
   <url>http://maven.apache.org</url>
 
   <properties>
